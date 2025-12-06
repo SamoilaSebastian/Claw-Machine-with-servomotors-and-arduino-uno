@@ -1,7 +1,8 @@
 # Claw Machine cu Arduino Uno 🕹️🤖
 
 Un proiect de tip braț robotic (Claw Machine) controlat manual printr-un joystick. Proiectul folosește servomotoare cu rotație continuă pentru deplasarea pe axe și un servomotor standard de putere pentru acționarea cleștelui/ghearei.
-
+Schita proiectului
+![schita](https://github.com/user-attachments/assets/6d581a6e-3677-4399-a4a4-4e2b6f528500)
 ## 📦 Componente Hardware
 
 * **1x Placă de dezvoltare:** Arduino Uno
